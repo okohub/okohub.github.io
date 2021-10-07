@@ -1,0 +1,28 @@
+title: onur kagan ozcan
+author: Onur Kağan Özcan
+email: onurkaganozcan@gmail.com
+url: "https://onurkaganozcan.com"
+baseurl: ""
+github_username: okohub
+description: > # for multiple lines
+  ideas and thoughts.
+
+permalink: /:slug.html
+
+favicon: "logo.png"
+
+# Build settings
+remote_theme: riggraz/no-style-please
+
+theme_config:
+  appearance: "auto"
+  back_home_text: ".."
+  date_format: "%Y-%m-%d"
+  show_description: false
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+include:
+  - _pages

@@ -1,0 +1,25 @@
+entries:
+  - title: me
+    entries:
+      - title: email
+        url: mailto:onurkaganozcan@gmail.com
+      - title: github
+        url: https://github.com/okohub/
+      - title: linkedin
+        url: https://www.linkedin.com/in/onurkaganozcan/
+
+  - title: tech
+    post_list:
+      category: tech
+      limit: 10
+      show_more: false
+
+  - title: fun
+    post_list:
+      category: fun
+      limit: 10
+      show_more: false
+
+  - title: rss
+    url: feed.xml
+
